@@ -12,7 +12,7 @@
         conda env create -f environnement.yml
         conda activate formation_dask
 
-3. Nous utiliserons dès données qu'il faut générées dans la console via le code suivant :
+3. Nous utiliserons des données qu'il faut générées dans la console via le code suivant :
 
         python data_prep.py
 
